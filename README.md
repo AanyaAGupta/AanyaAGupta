@@ -1,13 +1,11 @@
-## Hi, I'm Aanya
+## Hi, I'm Aanya!
 
-I like problems where the math meets real people. Most days that means turning messy public health surveys into county-level estimates someone can actually act on. Other days it means convincing qubits to behave like a spin chain.
-
-A year ago I barely knew what a Hamiltonian was. Now I simulate Ising models in Q#. Small steps add up, on a climbing wall and in a codebase.
+Engineering student at Duke. I like building things that help people make better decisions about their health, and I love spending my weekends on a climbing wall.
 
 - Studying biomedical + electrical & computer engineering at Duke
 - Software & Research Intern at Raytheon, coming back for Summer 2027
-- Ran HackTJ, the nation's largest student-run hackathon. The best part was watching someone write their first line of code
-- Founder of TJClimbing, weekend boulderer, enthusiastic baker, and always up for petting your dog
+- Directed HackTJ, the nation's largest student-run hackathon
+- Founder of TJClimbing
 
 ## Socials
 

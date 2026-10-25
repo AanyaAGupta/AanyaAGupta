@@ -1,11 +1,6 @@
 ## Hi, I'm Aanya!
 
-Engineering student at Duke. I like building things that help people make better decisions about their health, and I love spending my weekends on a climbing wall.
-
-- Studying biomedical + electrical & computer engineering at Duke
-- Software & Research Intern at Raytheon, coming back for Summer 2027
-- Directed HackTJ, the nation's largest student-run hackathon
-- Founder of TJClimbing
+Engineering student at Duke. I like building things that help people make better decisions about their health, and I love spending my weekends on a climbing wall. It's nice to meet you.
 
 ## Socials
 

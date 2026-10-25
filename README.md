@@ -1,10 +1,13 @@
-## About Me
+## Hi, I'm Aanya
 
-- I study biomedical engineering and electrical & computer engineering at Duke.
-- I build software and models that help people make better decisions about health.
-- Software & Research Intern at Raytheon, returning Summer 2027.
-- Currently exploring quantum simulation with Q# and Qiskit.
-- Outside of code, I founded TJClimbing and spend my weekends climbing.
+I like problems where the math meets real people. Most days that means turning messy public health surveys into county-level estimates someone can actually act on. Other days it means convincing qubits to behave like a spin chain.
+
+A year ago I barely knew what a Hamiltonian was. Now I simulate Ising models in Q#. Small steps add up, on a climbing wall and in a codebase.
+
+- Studying biomedical + electrical & computer engineering at Duke
+- Software & Research Intern at Raytheon, coming back for Summer 2027
+- Ran HackTJ, the nation's largest student-run hackathon. The best part was watching someone write their first line of code
+- Founder of TJClimbing, weekend boulderer, enthusiastic baker, and always up for petting your dog
 
 ## Socials
 
